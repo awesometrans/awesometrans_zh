@@ -2,6 +2,8 @@
 
 欢迎在 [twitter](https://twitter.com/awesome_trans)，[telegram](https://t.me/awesome_trans) 上关注我们。
 
+---
+
 ## 网站
 
 ### 百科
@@ -14,6 +16,16 @@
 - [未竟之路](https://trnt.tw)
 - [木桶饭](http://mtf.pub)
 
+### 性体验
+
+- [生如夏花](https://wiki.viva-la-vita.org): 乳首开发
+
+### 饮食
+
+- [FatSecret](https://www.fatsecret.cn/热量营养/): 热量与体重追踪
+
+---
+
 ## 微信公众号
 
 - [北同文化](asset/wechat-official/北同文化.bmp)
@@ -23,20 +35,17 @@
 - [跨儿心理](asset/wechat-official/跨儿心理.bmp)
 - [BIE别的女孩](asset/wechat-official/BIE别的女孩.bmp)
 
-### 性体验
-
-- [生如夏花](https://wiki.viva-la-vita.org): 乳首开发
-
-### 饮食
-
-- [FatSecret](https://www.fatsecret.cn/热量营养/): 热量与体重追踪
+---
 
 ## 讨论群组
 
 ### 综合
 
-- [awesome trans](https://t.me/awesome_trans_group)
 - [Backlight.Town 逆光小镇](https://t.me/joinchat/TW3bMPjX7uAC9Be-)
+
+### 互助问答
+
+- [awesome trans](https://t.me/awesome_trans_group)
 
 ### 声音
 
