@@ -16,17 +16,20 @@
 
 ## 微信公众号
 
-- 北京同志中心
-- 北同文化
-- 北同心理
-- 北同服务号
-- 跨儿说TransTalks
-- 跨儿心理
-- BIE别的女孩
+- [北同文化](asset/wechat-official/北同文化.bmp)
+- [北同心理](asset/wechat-official/北同心理.bmp)
+- [北同服务号](asset/wechat-official/北同服务号.bmp)
+- [跨儿说TransTalks](asset/wechat-official/跨儿说TransTalks.bmp)
+- [跨儿心理](asset/wechat-official/跨儿心理.bmp)
+- [BIE别的女孩](asset/wechat-official/BIE别的女孩.bmp)
 
 ### 性体验
 
-- [生如夏花](https://viva-la-vita.org)
+- [生如夏花](https://wiki.viva-la-vita.org): 乳首开发
+
+### 饮食
+
+- [FatSecret](https://www.fatsecret.cn/热量营养/): 热量与体重追踪
 
 ## 讨论群组
 
