@@ -32,6 +32,10 @@
 
 - [护肤全书 - 庆田朋子](https://book.douban.com/subject/30218334/)
 
+### 衣着与化妆
+
+- [好想做个女孩子 - 三叶](https://zh.moegirl.org.cn/好想做个女孩子) [豆瓣](https://book.douban.com/subject/2255381/)
+
 ### 饮食
 
 - [FatSecret](https://www.fatsecret.cn/热量营养/)：热量与体重追踪
@@ -39,6 +43,7 @@
 ### 性体验
 
 - [生如夏花](https://wiki.viva-la-vita.org)：乳首开发
+- [给男孩子的慰菊指导丛书 - あぶひゃく](https://book.douban.com/subject/4170326/)：前列腺开发
 
 ## 群组
 
@@ -56,6 +61,10 @@
   - [新手包](https://github.com/awesome-trans/archive/blob/main/声音/Voice%20Lab!%20新手包)
 
 ## 其他
+
+### 图书
+
+- [我生錯性別了！日本漫畫家的變性之路](https://book.douban.com/subject/27205457/)
 
 ### 影视
 
