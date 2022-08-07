@@ -52,7 +52,7 @@
 
 ### 互助
 
-- [awesome trans 互助群](https://t.me/awesome_trans_group)
+- [awesometrans 中文互助群](https://t.me/awesometrans_zh_group)
 
 ### 声音
 
