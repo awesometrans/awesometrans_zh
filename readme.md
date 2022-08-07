@@ -1,6 +1,6 @@
 # awesome trans
 
-欢迎在 [twitter](https://twitter.com/awesome_trans)，[telegram](https://t.me/awesome_trans) 上关注我们。如果想要联系我们，请发送邮件到 awesome-trans@outlook.com。
+欢迎在 [twitter](https://twitter.com/awesometrans_zh)，[telegram](https://t.me/awesometrans_zh) 上关注我们。如果想要联系我们，请发送邮件到 awesome-trans@outlook.com。
 
 ---
 
