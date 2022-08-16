@@ -1,15 +1,19 @@
 # awesome trans
 
-欢迎在 [twitter](https://twitter.com/awesometrans_zh)，[telegram](https://t.me/awesometrans_zh) 上关注我们。如果想要联系我们，请发送邮件到 awesome-trans@outlook.com。
+欢迎在 [Twitter][twitter]，[Telegram][telegram] 上关注我们。
+如果想要联系我们，请发送邮件到 <awesome-trans@outlook.com>。
+
+[twitter]: https://twitter.com/awesometrans_zh
+[telegram]: https://twitter.com/awesometrans_zh
 
 ## 信息
 
 ### 百科
 
-- [MtF Wiki](https://mtf.wiki)：面向中国
+- [MtF.wiki](https://mtf.wiki)：面向中国大陆
 - [跨性別資源中心](https://www.tgr.org.hk)：面向香港
 - [Transgender-lost-years](https://github.com/KristallWang/Transgender-lost-years)：主要面向欧美
-- [shizu's 跨性别女性HRT资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
+- [shizu's 跨性别女性 HRT 资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
 
 ### 论坛
 
@@ -18,12 +22,12 @@
 
 ### 微信公众号
 
-- [北同文化](asset/wechat-official/北同文化.bmp)
-- [北同心理](asset/wechat-official/北同心理.bmp)
-- [北同服务号](asset/wechat-official/北同服务号.bmp)
-- [跨儿说TransTalks](asset/wechat-official/跨儿说TransTalks.bmp)
-- [跨儿心理](asset/wechat-official/跨儿心理.bmp)
-- [BIE别的女孩](asset/wechat-official/BIE别的女孩.bmp)
+- [北同文化](https://open.weixin.qq.com/qr/code?username=beitong2021)
+- [北同心理](https://open.weixin.qq.com/qr/code?username=gh_81ecf82769f5)
+- [北同服务号](https://open.weixin.qq.com/qr/code?username=lgbtcenterservice)
+- [跨儿说 TransTalks](https://open.weixin.qq.com/qr/code?username=TransTalks)
+- [跨儿心理](https://open.weixin.qq.com/qr/code?username=kuaerxinli)
+- [BIE 别的女孩](https://open.weixin.qq.com/qr/code?username=biedegirls)
 
 ## 需求
 
@@ -48,7 +52,8 @@
 
 ### 综合
 
-- [Backlight.Town 逆光小镇](https://t.me/joinchat/TW3bMPjX7uAC9Be-)：最大的中文跨性别群组
+- Backlight.Town 逆光小镇：最大的中文跨性别群组\
+  联系 [@rikablossom](https://t.me/rikablossom) 加入
 
 ### 互助
 
