@@ -4,7 +4,7 @@
 如果想要联系我们，请发送邮件到 <awesome-trans@outlook.com>。
 
 [twitter]: https://twitter.com/awesometrans_zh
-[telegram]: https://twitter.com/awesometrans_zh
+[telegram]: https://t.com/awesometrans_zh
 
 ## 信息
 
@@ -13,7 +13,7 @@
 - [MtF.wiki](https://mtf.wiki)：面向中国大陆
 - [跨性別資源中心](https://www.tgr.org.hk)：面向香港
 - [Transgender-lost-years](https://github.com/KristallWang/Transgender-lost-years)：主要面向欧美
-- [shizu's 跨性别女性 HRT 资料](https://docs.google.com/presentation/d/1PzE-rmtwBMOrgXcsI_RIDAKTUIe3fx5h-PmEbzRgBBA)
+- [shizu's 跨性别女性 HRT 资料](https://docs.hrt.guide)
 
 ### 论坛
 
