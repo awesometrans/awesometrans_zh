@@ -4,7 +4,7 @@
 如果想要联系我们，请发送邮件到 <awesome-trans@outlook.com>。
 
 [twitter]: https://twitter.com/awesometrans_zh
-[telegram]: https://t.com/awesometrans_zh
+[telegram]: https://t.me/awesometrans_zh
 
 ## 信息
 
