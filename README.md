@@ -21,6 +21,7 @@
 
 - [未竟之路](https://trnt.tw)
 - [木桶饭](http://mtf.pub)
+- [medor](http://8.130.16.243)
 
 ### 微信公众号
 
